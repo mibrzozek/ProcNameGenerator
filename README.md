@@ -1,4 +1,4 @@
-# ProcNameGenerator
+# Procedural Name Generator
 
 Java program which generates names based on a file with one name per line.
 
@@ -8,6 +8,7 @@ rather chunks of a names with lengths of 2, 3, or 4 letters. All beiginning syll
 
 This program produces names by stitching together these chunks randomly, sometimes omitting the middle syllable.
 
+# Results
 Here are some of the names generated from common names :
     Broaly
     Mekhzer
