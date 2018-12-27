@@ -10,6 +10,7 @@ This program produces names by stitching together these chunks randomly, sometim
 
 # Results
 Here are some of the names generated from common names :
+
     Broaly
     Mekhzer
     Osere
@@ -31,16 +32,12 @@ Here are some of the names generated from common names :
     Ravston
 
 Here are some names generated from Tolkien names :
+
     Fastmanos
-    
-    Turbard
-    
+    Turbard   
     Panbu
-    
     Alabold
-    
     Mahldi
-    
     Lécw
     Panffo
     Dafar
