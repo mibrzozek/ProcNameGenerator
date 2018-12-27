@@ -32,10 +32,15 @@ Here are some of the names generated from common names :
 
 Here are some names generated from Tolkien names :
     Fastmanos
+    
     Turbard
+    
     Panbu
+    
     Alabold
+    
     Mahldi
+    
     Lécw
     Panffo
     Dafar
@@ -54,5 +59,6 @@ Here are some names generated from Tolkien names :
     Ae-Ata
 
 [Here](https://raw.githubusercontent.com/hadley/data-baby-names/master/baby-names.csv) i found a CSV of names which i parsed out into the first_names file found in this repo.
+
 [Here](https://github.com/juandes/lotr-names-classification) is where i pulled the CSV of the Tolkien names which i parsed out into the parsed_lotr_names.
 
