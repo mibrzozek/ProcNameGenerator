@@ -24,7 +24,7 @@ public class ProcNameDriver
 		//ParseCSV parser = new ParseCSV(LOTR, "parsed_lotr_names.txt");
 		//parser.parseFieldToNewFile(0);
 		
-		g.setFileToUse("firstNames.txt");
+		g.setFileToUse("parsed_lotr_names.txt");
 		
 		for(int i = 0; i < 500; i++)
 		{
