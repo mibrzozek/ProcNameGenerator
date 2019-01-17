@@ -5,6 +5,8 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
+import markov.MarkovTextGenerator;
+
 public class ProcNameDriver 
 {
 	private static final String FILE_PATH = 
@@ -30,5 +32,8 @@ public class ProcNameDriver
 		{
 			System.out.println(g.getRandomName());
 		}
+		
+		MarkovTextGenerator mGen = new MarkovTextGenerator();
+		mGen.setFile("lotr_new_short.txt");
 	}
 }
