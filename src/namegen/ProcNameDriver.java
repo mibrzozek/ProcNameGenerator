@@ -35,5 +35,11 @@ public class ProcNameDriver
 		
 		MarkovTextGenerator mGen = new MarkovTextGenerator();
 		mGen.setFile("lotr_new_short.txt");
+		
+		for(int i = 0 ; i < 15; i++)
+			System.out.println(mGen.genSentence(r.nextInt(10) + 5));
+		
+		System.out.println("\n Done");
+		
 	}
 }
